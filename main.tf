@@ -1,4 +1,4 @@
-provider "shahnawaz" {
+provider "azurerm {
     features {
       
     }
