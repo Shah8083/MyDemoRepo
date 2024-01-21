@@ -1,4 +1,4 @@
-provider "shahnawazgit" {
+provider "azurerm {
     features {
       
     }
