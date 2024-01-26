@@ -4,3 +4,5 @@ provider "azurerm1 {
     }
   
 }# Created a branch
+  name = shahnawaz
+  
